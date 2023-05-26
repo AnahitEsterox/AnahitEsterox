@@ -1,5 +1,5 @@
 ### Hi there 👋
-**I have developed expertise in crafting responsive, mobile-friendly websites and web applications. My skill set includes proficiency in HTML, CSS, JavaScript, and modern frontend framework such as React.**
+****
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
 </div>
@@ -13,7 +13,7 @@
 
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Armenia.
-
+I have developed expertise in crafting responsive, mobile-friendly websites and web applications. My skill set includes proficiency in HTML, CSS, JavaScript, and modern frontend framework such as React.
 
 - :telescope:  I thrive on creating visually appealing and user-friendly web applications that seamlessly blend aesthetics with functionality. With a strong foundation in frontend technologies and a keen eye for design, I'm dedicated to delivering exceptional user experiences..
 

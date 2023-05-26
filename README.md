@@ -1,6 +1,7 @@
 ### Hi there 👋
+**I have developed expertise in crafting responsive, mobile-friendly websites and web applications. My skill set includes proficiency in HTML, CSS, JavaScript, and modern frontend framework such as React.**
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif width="100""/>
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
 </div>
 <div id="badges">
   <a href="linkedin.com/in/anharutyunyan">

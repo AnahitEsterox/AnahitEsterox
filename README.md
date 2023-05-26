@@ -1,12 +1,14 @@
-### Hi there 👋
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/ align-items="left">
-</div>
+  ### Hi there 👋
 <div id="badges">
   <a href="linkedin.com/in/anharutyunyan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn         Badge"/>
   </a>
  </div>
+</div>
+
  
  ---
 

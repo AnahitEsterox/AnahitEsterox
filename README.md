@@ -14,7 +14,8 @@
 
 ---
 
-### :woman_technologist: I am a Frontend Developer from Armenia.I have developed expertise in crafting responsive, mobile-friendly websites and web applications. My skill set includes proficiency in HTML, CSS, JavaScript, and modern frontend framework such as React.
+### :woman_technologist: I am a Frontend Developer from Armenia.
+I have developed expertise in crafting responsive, mobile-friendly websites and web applications. My skill set includes proficiency in HTML, CSS, JavaScript, and modern frontend framework such as React.
 
 
 - :telescope:  I thrive on creating visually appealing and user-friendly web applications that seamlessly blend aesthetics with functionality. With a strong foundation in frontend technologies and a keen eye for design, I'm dedicated to delivering exceptional user experiences..

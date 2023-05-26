@@ -24,7 +24,8 @@ I have developed expertise in crafting responsive, mobile-friendly websites and 
 
 - :zap: I use my free time to work on personal coding projects. These projects allow me to explore new technologies, experiment with creative ideas, and further enhance my coding skills.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([linkedin.com/in/anharutyunyan](https://www.linkedin.com/in/anharutyunyan))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anharutyunyan)
+
 
 ---
 
